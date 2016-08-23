@@ -1,7 +1,7 @@
 Time Capsule Encryption Network
 ===
 
-This is an implementation of the time-lapse cryptography technique described in a [2006 paper by Michael Rabin and Christopher Thorpe](http://www.eecs.harvard.edu/~cat/tlc.pdf).
+This is an implementation of the time-lapse cryptography technique described in a [2006 paper by Michael Rabin and Christopher Thorpe](https://dash.harvard.edu/bitstream/handle/1/26506434/tr-22-06.pdf).
  
 The system allows a distributed group of keyholders serving as trustees to generate and publish OpenPGP keys according to a fixed schedule.
 Private keys are stored on airgapped computers until they are ready for publication.
